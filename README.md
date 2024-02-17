@@ -6,6 +6,8 @@ The primary objective of this project is to analyze salary data in the data scie
 
 # Data
 
+The dataset was accessed from [Kaggle](https://www.kaggle.com/datasets/sazidthe1/data-science-salaries/data).
+
 The dataset for this analysis, data_science_salaries.csv, encompasses salary information for various positions within the data science industry, spanning from 2021 to 2024. Key data points include job titles, experience levels, employment types, work models, employee residence, salary in local currency, salary in USD, company location, and company size. This dataset provides a comprehensive overview of the salary landscape in the data science domain, facilitating a nuanced analysis of salary trends over the specified period.
 
 # Methods / Tools
