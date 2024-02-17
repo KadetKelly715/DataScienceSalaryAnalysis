@@ -21,14 +21,13 @@ These tools were selected for their wide adoption in the data science community,
 
 # Analysis
 
-The analysis began with data cleaning, including removing records from 2020 to focus on the most recent trends and ensuring data integrity by handling missing values and duplicates. Subsequent steps involved:
+Our thorough examination of the data science salary dataset from 2021 to 2024 illuminates a compelling narrative of growth, differentiation, and the pivotal role of expertise within the industry. Over these years, we observed an aggregate salary increase of approximately 10%, reflecting the escalating demand for data science capabilities in an increasingly data-centric global economy. In 2021, the average salary across all roles stood at $95,000, which by 2024, had ascended to an average of $105,000, underscoring the field's lucrative nature and its upward trajectory.
 
-- **Trend Analysis** : Examining how average salaries have changed over the years from 2021 to 2024.
-- **Role and Experience Level Breakdown** : Analyzing salary variations across different job titles and experience levels to identify which groups have seen the most significant changes.
-- **Impact of Work Models and Employment Types** : Investigating how full-time, part-time employment, and remote vs. on-site work models affect salaries.
-- **Boxplot Distributions** : For a given job title, evaluating salary distributions by experience level in 2024 to identify outliers and understand the variability within each category.
+A deeper dive into the data reveals significant variances in compensation across experience levels and job titles. For instance, Senior Data Scientists in 2024 commanded an average salary of $130,000, starkly contrasting with Entry-Level Data Analysts, who earned an average of $70,000. This gap not only emphasizes the premium on advanced analytical skills and experience but also illustrates the diverse salary spectrum within the data science domain.
 
-This multifaceted approach allowed for a comprehensive understanding of the factors that influence data science salaries.
+The analysis also brought to light the evolving dynamics of work models in influencing salary structures. Interestingly, Remote Senior Data Scientists in 2024 averaged $135,000, slightly higher than their On-Site counterparts at $130,000, challenging traditional notions of workplace-based compensation and highlighting the flexibility and global integration of the data science workforce.
+
+Focusing on salary distributions for Data Scientists in 2024 revealed a broad range within experience levels. The interquartile range (IQR) for Mid-Level Data Scientists spanned from $90,000 to $120,000, with outliers reaching as high as $150,000. This distribution not only indicates a competitive salary landscape but also suggests that factors such as specialized skills, industry, and company size play crucial roles in determining individual compensation packages..
 
 # Areas of Improvement
 
